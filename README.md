@@ -216,15 +216,17 @@ git add .
 git commit -m "Crear API REST de registro e inicio de sesion"
 ```
 
-Para publicar, cree primero un repositorio vacío en GitHub y luego configure su URL real:
+El repositorio público de esta evidencia es:
+
+https://github.com/akumachino197-svg/OSCAR_GONZALEZ_AA5_EV01
+
+Para publicar futuras modificaciones:
 
 ```powershell
-git remote add origin <URL_REAL_DEL_REPOSITORIO>
-git branch -M main
+git add .
+git commit -m "Describir el cambio"
 git push -u origin main
 ```
-
-No se ha publicado un repositorio desde esta entrega. Agregue la URL real a `ENLACE_REPOSITORIO.txt` después de publicarlo.
 
 ## Conclusiones
 
